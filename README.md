@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Mikołaj and I'm an AGH student!
+
 Link to my website: https://freemiki.github.io
 <!--
 **FrEeMiKi/FrEeMiKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
